@@ -1,0 +1,28 @@
+{
+  "name": "exercism-javascript-exercises",
+  "version": "1.0.0",
+  "description": "Exercism JavaScript exercises",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strawbee/javascript-exercism.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Exercism"
+  ],
+  "author": "Joy Hou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strawbee/javascript-exercism/issues"
+  },
+  "homepage": "https://github.com/strawbee/javascript-exercism#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  }
+}
